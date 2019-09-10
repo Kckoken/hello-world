@@ -1,4 +1,7 @@
-# hello-world
-Github tutorial
-I am currently a Junior at the University of Arizona Eller College of Management studying Management Information Systems.
-One day I aspire to be a software engineer
+Kyle's Github
+
+Institution: University of Arizona Eller College of Management
+
+Major: Management Information Systems
+
+With that major I plan to earn a career in a technology driven field, hopefully either data science or Software Engineering.
